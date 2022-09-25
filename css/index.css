@@ -1,0 +1,175 @@
+.about {
+    max-width: 1210px;
+    margin: 0px auto;
+    background-color:  rgba(20, 20, 20, 1); 
+}
+.about__body {
+    max-width: 1110px;
+    margin: 0px auto;
+    background:  rgba(20, 20, 20, 1);
+}
+.about__header {
+   
+}
+.about__title {
+margin-left: 92px; 
+background:  rgba(20, 20, 20, 1);
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 100px;
+color: #FFBC5B;
+
+}
+.title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #FFBC5B;
+
+}
+.about__title-title {
+}
+.about__text {
+}
+.about__row {
+    display: flex;
+    margin: 0px 30px;
+
+    
+
+}
+
+.about__column {
+    flex: 0 0 33.333%;
+}
+.item-about {
+    
+}
+.icon{
+border-radius: 15px;
+border: 2px solid black;
+width: 322px;
+height: 182px;
+display:flex;
+align-items: center;
+}
+.item-about__icon {
+border-radius: 15px;
+border: 2px solid black;
+width: 322px;
+height: 182px;
+margin-bottom: 20px;
+display:flex;
+align-items: center;
+}
+.item-about__title {
+color: #989898;
+
+}
+.item-about__text {
+color: #515151;
+
+}
+
+.about__body2 {
+    max-width: 1110px;
+    margin: 0px auto;
+    background: rgba(20, 20, 20, 1); 
+    padding-bottom: 50px;
+}
+
+.item-about__icon2{
+border-radius: 15px;
+border: 2px solid black;
+width: 322px;
+height: 485px;
+margin-bottom: 20px;
+display:flex;
+align-items: center;
+}
+.item-about__title {
+color: #989898;
+}
+
+.icon2{
+border-radius: 15px;
+border: 2px solid black;
+width: 322px;
+height: 485px;
+display:flex;
+align-items: center;
+}
+.strelka{
+    margin-top: 65px;
+    color: rgba(255, 188, 91, 1);
+    font-size: 60px;
+    
+}
+.strelka2{
+    margin-top: 175px;
+    color: rgba(255, 188, 91, 1);
+    font-size: 60px;
+    
+}
+
+.mainheader {
+position: relative;
+max-width: 1210px;
+max-height: 80px;
+margin: 0px auto;
+left: 0px;
+top: 0px;
+background:rgba(69, 32, 171, 1);
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content:space-around;
+flex-wrap: wrap;
+
+}
+    
+.logo {
+    position: absolute;
+    width: 47.89px;
+    height: 48px; 
+    Left: 92px;
+    border: 1px solid #29EDFF;   
+
+}
+.naim {
+    position: absolute;
+    width: 78.35px;
+    height: 25.61px;
+    margin-top: 10px;
+    left: 153.71px;
+    
+    color: #4520AB;
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: #29EDFF;
+}
+.menu{
+
+}
+.menu1 {
+  margin-left: 200px;
+    color:rgba(255, 188, 91, 1)
+}
+.menu2 {
+    color: rgba(255, 255, 255, 1)
+}
+.menu3 {
+    color: rgba(255, 255, 255, 1)
+}
+.lupa2 {
+    position:relative;
+    top: 6px;
+    left: -5px;
+}
+.lupa{
+    color: rgba(255, 255, 255, 1);
+
+}
+
